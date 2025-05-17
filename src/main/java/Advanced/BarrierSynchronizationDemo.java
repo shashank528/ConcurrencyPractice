@@ -76,5 +76,6 @@
                    }
                });
            }
+           executor.shutdown();
         }
     }
